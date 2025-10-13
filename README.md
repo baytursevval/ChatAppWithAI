@@ -2,9 +2,7 @@
 
 Bu proje, kullanıcıların rumuz (nickname) ile giriş yapıp birbirleriyle sohbet edebildiği,  
 mesajların **AI tarafından canlı olarak duygu analizi** yapıldığı bir web projesidir.  
-
 Backend, frontend ve AI servisi tamamen ücretsiz platformlarda deploy edilmiştir.
-
 ---
 
 ## 🚀 Özellikler (MVP)
@@ -27,13 +25,11 @@ Backend, frontend ve AI servisi tamamen ücretsiz platformlarda deploy edilmişt
 
 ---
 
-
 ** AI Servisi
 
 Hugging Face Spaces Docker SDK kullanılarak deploy edilmiştir.
 Local test için: http://localhost:7860/api/predict
 Canlı test için: https://sevvaltzl-sentimentt.hf.space/api/predict
-
 
 ** Backend Servisi
 
@@ -47,7 +43,6 @@ dotnet run
 Render için Docker kullanılarak deploy edilmiştir.
 Backend varsayılan olarak: https://localhost:5285
 Render deploy sonrası canlı URL: https://chatemotionapi.onrender.com
-
 
 ** Frontend Servisi
 
