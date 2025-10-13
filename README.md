@@ -35,6 +35,7 @@ Canlı test için: https://sevvaltzl-sentimentt.hf.space/api/predict
 
 ** Backend Servisi
 
+```bash
 git clone https://github.com/baytursevval/ChatEmotionAPI.git
 cd ChatEmotionAPI
 dotnet restore
@@ -48,10 +49,11 @@ Render deploy sonrası canlı URL: https://chatemotionapi.onrender.com
 
 ** Frontend Servisi
 
+```bash
 git clone https://github.com/kullaniciadi/chat-web.git
 cd chat-web
 npm install
 npm start
 Localhost: http://localhost:3000
-Canlı URL (Vercel): [https://chatemotion-frontend.vercel.app]https://chat-ev1zd4fwl-baytursevvals-projects.vercel.app/)
+Canlı URL (Vercel): https://chat-ev1zd4fwl-baytursevvals-projects.vercel.app/
 
