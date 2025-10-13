@@ -33,7 +33,6 @@ Canlı test için: https://sevvaltzl-sentimentt.hf.space/api/predict
 
 ** Backend Servisi
 
-```bash
 git clone https://github.com/baytursevval/ChatEmotionAPI.git
 cd ChatEmotionAPI
 dotnet restore
