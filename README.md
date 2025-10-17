@@ -58,6 +58,3 @@ Localhost: http://localhost:3000
 Canlı URL (Vercel): https://chat-ev1zd4fwl-baytursevvals-projects.vercel.app/
 
 
-<img width="821" height="653" alt="Screenshot from 2025-10-17 14-54-50" src="https://github.com/user-attachments/assets/c86fc6d7-7bea-4e81-a4ca-b01059964143" />
-
-
